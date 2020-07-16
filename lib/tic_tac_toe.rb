@@ -70,7 +70,7 @@ def play(board)
     round += 1
     # call #turn
     turn(board)
-  puts "You win!"
+  #puts "You win!"
   end
 end
 
